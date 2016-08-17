@@ -1,6 +1,6 @@
 .catalog:
-  name: Sentry
-  version: 8.5.0
+  name: Sentry-Slack
+  version: 8.7
   description: Sentry is a realtime event logging and aggregation platform
 
   questions:

@@ -2,6 +2,8 @@
 
 
 ### Info:
+ Sentry bundled with Slack notifications plugin.
+
  This templates creates a complete [sentry](https://github.com/getsentry/sentry) setup including postgres and redis servers.
 
  Images are the offical images from:

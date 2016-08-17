@@ -1,8 +1,10 @@
-# Rancher Community Catalog 
+# CODECASTS Rancher Catalog
 
-This catalog provides templates created by the community, and they are not maintained or supported by Rancher Labs.
+This catalog provides templates created by the CODECASTS for internal usage but is open and can be used by anyone.
 
 # License
+> Original Copyright of templates, as we're based on the community we kept the copyright and original license (Apache v2):
+
 Copyright (c) 2014-2016 [Rancher Labs, Inc.](http://rancher.com)
 
 Licensed under the Apache License, Version 2.0 (the "License");
